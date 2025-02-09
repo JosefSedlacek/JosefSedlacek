@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python for data analysis (streamlit apps and machine learning)
 - 📫 How to reach me:
     - email: josef.sedlacek1996@gmail.com
-    - LikedIn: [profile](https://www.linkedin.com/in/ing-josef-sedl%C3%A1%C4%8Dek-985023228/)
+    - LikedIn: [My profile](https://www.linkedin.com/in/ing-josef-sedl%C3%A1%C4%8Dek-985023228/)
 
 ---
 ## About me
