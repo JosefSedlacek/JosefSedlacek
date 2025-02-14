@@ -2,6 +2,7 @@
 **`datový analytik (oblast výroby a plánování výroby)`**  
 
 Vystudoval jsem chemické inženýrství, ale opravdu jsem se našel až při práci s daty. Jsem zaměstnán jako Procesní inženýr ve firmě Gumokov a.s., kde pracuji především s výrobními a technologickými daty. Často spolupracuji s oddělením plánování výroby a také technologickou přípravou výroby. Převážná část mojí práce je vytváření aplikací a automaticky aktualizovaných sestav v PowerBI. Většinu dat získávám ze systému SAP ERP a interních databází, na jejichž tvorbě se také podílím.  
+  
 Rád bych svou kariéru dále rozvíjel v oblasti datové analýzy a programování se zaměřením na Python a jeho využití při tvorbě analytických nástrojů a aplikací. Doplňuji si vzdělání prostřednictvím různých kurzů (aktuálně osmiměsíční kurz od IT školy CodersLab - kurz Data Scientist). 
 
 Mezi mé dovednosti patří:
