@@ -1,4 +1,33 @@
-## Hello, my name is Pepa 👋
+# Josef Sedláček
+**`něco něco něco`**
+Odstavec Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+---
+### Nástroje:
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"/>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - 🔭 I’m currently working on **Manufacturing Capacity Reporting System** (in PowerBI and Python Streamlit) in Gumokov a.s.
 - 🌱 I’m currently learning Python for data analysis (streamlit apps and machine learning)
@@ -22,3 +51,5 @@ I have been responsible for projects such as:
 - Work activity reports for various departments
 
 I aspire to further develop my career in the field of **data analysis and programming**, focusing on **Python** and its applications in creating analytical tools and applications. My goal is to combine technical skills with creativity to develop solutions that drive decision-making and efficiency. I am currently enhancing my knowledge through various courses (including an eight-month Data Scientist course by CodersLab).
+
+## 
